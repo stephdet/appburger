@@ -1,0 +1,48 @@
+.BuildControls {
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 auto;
+}
+
+
+
+
+.Label {
+color:white;
+font-size: 1em;
+font-weight: 900;
+width:20%;
+margin: 10px;
+/* padding: 10px; */
+
+}
+
+ .Less:active {
+    background-color: #AA6817;
+    border:none;
+    width:40px;
+    display: block;
+    text-align:center;
+    
+}
+
+
+.Less:hover { 
+    background-color:rgb(228, 122, 15);
+    color:#ccc;
+    border:none;
+    width:40px;
+    text-align: center;
+
+}
+
+button {
+    background-color: rgb(228, 122, 15);
+    text-align: center;
+    color: white;
+}
+
+

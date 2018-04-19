@@ -1,0 +1,12 @@
+.Content {
+    margin-top:20px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+
+.Header {
+    background-color:#000;
+    height: 40px;
+    width: 100%;
+}
